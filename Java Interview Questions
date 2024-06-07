@@ -1,0 +1,69 @@
+Java Technical Interview Questions
+Core Java Concepts
+
+    What is the difference between JDK and JRE?
+    Why is Java a platform independent language?
+    What is the difference between an abstract class and an interface?
+    What is the difference between final, finally, and finalize?
+    What is the difference between stack and heap memory?
+    What is the difference between method overloading and method overriding?
+    What is the difference between an abstract class and an interface?
+    What is the difference between a private and a protected modifier?
+    What is constructor overloading in Java?
+    What is the use of super keyword in Java?
+    What is the difference between static methods, static variables, and static classes in Java?
+    What exactly is System.out.println in Java?
+    What part of memory - Stack or Heap - is cleaned in the garbage collection process?
+
+Object-Oriented Programming
+
+    What are the Object Oriented Features supported by Java?
+    What are the different access specifiers used in Java?
+    What is the difference between composition and inheritance?
+    What is the purpose of an abstract class?
+    What are the differences between constructor and method of a class in Java?
+    What is the diamond problem in Java and how is it solved?
+    What is the difference between local and instance variables in Java?
+    What is a Marker interface in Java?
+    Data Structures and Algorithms
+    Why are strings immutable in Java?
+    What is the difference between creating a String using new() and as a literal?
+    What is the Collections framework?
+    What is the difference between ArrayList and LinkedList?
+    What is the difference between a HashMap and a TreeMap?
+    What is the difference between a HashSet and a TreeSet?
+    What is the difference between an Iterator and a ListIterator?
+    What is the difference between an ArrayList and a LinkedList?
+    What is the purpose of the Comparable interface?
+    What is the difference between a HashSet and a TreeSet?
+    What is the purpose of the java.util.concurrent package?
+
+Exception Handling
+
+    What is an exception?
+    How does an exception propagate throughout the Java code?
+    What is the difference between checked and unchecked exceptions?
+    What is the use of try-catch block in Java?
+    What is the difference between throw and throws?
+    What is the use of the finally block?
+    What’s the base class of all exception classes?
+    What is Java Enterprise Edition (Java EE)?
+    What is the difference between a Servlet and a JSP?
+    What is the purpose of the Java Persistence API (JPA)?
+    What is the difference between stateful and stateless session beans?
+
+Multithreading
+
+    What is a thread and what are the different stages in its lifecycle?
+    What is the difference between process and thread?
+    What are the different types of thread priorities available in Java?
+    What is context switching in Java?
+    What is the difference between user threads and Daemon threads?
+    What is synchronization?
+    What is a deadlock?
+    What is the use of the wait() and notify() methods?
+    What is the difference between a thread and a process in Java?
+    What is the difference between synchronized and volatile in Java?
+    What is the purpose of the sleep() method in Java?
+    What is the difference between wait() and sleep() in Java?
+    What is the difference between notify() and notifyAll() in Java?
